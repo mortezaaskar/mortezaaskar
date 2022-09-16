@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EinDevelop
 - 👀 I’m interested in Golang & Rust
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang!
 - 💞️ I’m looking to collaborate on first issues
 - 🙉 Hobbies include, Hiking, Pokemon, Dragon Ball and Eating
 <!---
