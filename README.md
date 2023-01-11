@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EinDevelop
+- 👋 Hi, I’m Morteza
 - 👀 I’m interested in Golang & Rust
 - 🌱 I’m currently learning Golang!
 - 💞️ I’m looking to collaborate on first issues
